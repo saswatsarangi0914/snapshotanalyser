@@ -12,3 +12,5 @@ pipenv run "python meteors/find_meteors.py"
 
 ```
 pythong shotty/shotty.py list|stop|start --project=<name>
+
+#added
